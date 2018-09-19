@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Simon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simon_jar</output-path>
+    <root id="archive" name="Simon.jar">
+      <element id="module-output" name="Simon" />
+      <element id="module-output" name="SimonGame" />
+    </root>
+  </artifact>
+</component>
